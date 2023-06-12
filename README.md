@@ -2,4 +2,4 @@
 
 a dodging game build in pygame
 
-! [](game.gif)
+![](game.gif)
